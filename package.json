@@ -11,5 +11,8 @@
 		"crypto-js": "^4.2.0",
 		"node-fetch": "^3.3.2",
 		"stremio-addon-sdk": "1.1.x"
+	},
+	"engines": {
+		"node": "21.7.2"
 	}
 }
